@@ -7,17 +7,17 @@
 - next/previous day on select flight pag
 - terms and conditions
 - aesthetic changes:
-   * from and to text on confirmation page
-   * _back button_
-   * sign out button on confirmation screen
-   * hide fares when less than 1 NGN 
+   - from and to text on confirmation page
+   - _back button_
+   - sign out button on confirmation screen
+   - hide fares when less than 1 NGN 
 
 ### **v1.0 "MVP" - 21 July 2021**
 #### Basic functionality:
-> - Flight and boat booking through apis
-> - Guesthouse booking
-> - Pickup/Dropoff booking
-> - _Routes are hardcoded_  
+- Flight and boat booking through apis
+- Guesthouse booking
+- Pickup/Dropoff booking
+- _Routes are hardcoded_  
 ---  
 
 ## To-do list:  
