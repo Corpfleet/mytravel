@@ -13,11 +13,12 @@
    - hide fares when less than 1 NGN 
 
 ### **v1.0 "MVP" - 21 July 2021**
-#### Basic functionality:
+##### Basic functionality:
 - Flight and boat booking through apis
 - Guesthouse booking
 - Pickup/Dropoff booking
-- _Routes are hardcoded_  
+- _Routes are hardcoded_
+
 ---  
 
 ## To-do list:  
@@ -39,7 +40,7 @@
 * Routing/Availability service - controlled in N-Logistics
 
 | Location      | Pickup/Dropoff  | 
-| ------------- |-------------:| 
+| ------------- |:--------------| 
 | Port Harcourt | Office        | 
 |               | Hotel         |  
 |               |               |  
