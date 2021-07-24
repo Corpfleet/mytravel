@@ -1,6 +1,3 @@
-# Corpfleet MyTravel
-## Changelog:
-
 ### **v1.1 to be released**
 - load routes from backend (CTRL+SHIFT+, to force backend reload update)
 - ability to update Takeflite routes
